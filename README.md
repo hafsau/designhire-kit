@@ -4,13 +4,15 @@ A Claude Code starter kit that automates your designer job search. Portfolio-awa
 
 ## What's Included
 
-**6 Skills:**
+**8 Skills:**
 - `/cover-letter` — Generate portfolio-backed cover letters from job descriptions
 - `/linkedin-outreach` — Write short, personal messages to hiring managers
 - `/application-answer` — Answer common application questions with real examples
 - `/company-research` — Research a company's design work and culture
 - `/interview-prep` — Prepare questions, talking points, and portfolio presentation
 - `/thank-you` — Post-interview follow-up emails that reference your conversation
+- `/portfolio-pitch` — Tailor your portfolio presentation for a specific company
+- `/follow-up-sequence` — Day-by-day follow-up plan after applying
 
 **Context Templates:**
 - Resume, portfolio, writing style, and target companies templates
@@ -50,7 +52,7 @@ A Claude Code starter kit that automates your designer job search. Portfolio-awa
    ```
    /skills
    ```
-   You should see all 6 skills listed.
+   You should see all 8 skills listed.
 
 ## Usage
 

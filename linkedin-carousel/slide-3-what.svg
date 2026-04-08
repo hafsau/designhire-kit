@@ -1,0 +1,58 @@
+<svg width="1080" height="1350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0a"/>
+      <stop offset="100%" style="stop-color:#1a1a2e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1080" height="1350" fill="url(#bg3)"/>
+
+  <!-- Title -->
+  <text x="100" y="150" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#ffffff">What is DESIGN.md?</text>
+
+  <!-- Subtitle -->
+  <text x="100" y="220" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="28" fill="#a1a1aa">A single markdown file containing:</text>
+
+  <!-- Code block background -->
+  <rect x="60" y="280" width="960" height="820" fill="#111" rx="16" stroke="#333" stroke-width="2"/>
+
+  <!-- Code header dots -->
+  <circle cx="100" cy="320" r="8" fill="#ef4444"/>
+  <circle cx="130" cy="320" r="8" fill="#eab308"/>
+  <circle cx="160" cy="320" r="8" fill="#22c55e"/>
+
+  <!-- Code content -->
+  <text x="100" y="400" font-family="SF Mono, Monaco, Consolas, monospace" font-size="26" fill="#a1a1aa"># DESIGN.md</text>
+
+  <text x="100" y="480" font-family="SF Mono, Monaco, Consolas, monospace" font-size="26" fill="#3b82f6">## Colors</text>
+  <text x="100" y="520" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Primary: #0066FF (Ocean Blue)</text>
+  <text x="100" y="560" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Secondary: #1A1A1A (Charcoal)</text>
+
+  <text x="100" y="640" font-family="SF Mono, Monaco, Consolas, monospace" font-size="26" fill="#3b82f6">## Typography</text>
+  <text x="100" y="680" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Headings: Inter, 600 weight</text>
+  <text x="100" y="720" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Scale: 14 / 16 / 20 / 24 / 32</text>
+
+  <text x="100" y="800" font-family="SF Mono, Monaco, Consolas, monospace" font-size="26" fill="#3b82f6">## Spacing</text>
+  <text x="100" y="840" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Base: 4px</text>
+  <text x="100" y="880" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Scale: 4 / 8 / 16 / 24 / 32</text>
+
+  <text x="100" y="960" font-family="SF Mono, Monaco, Consolas, monospace" font-size="26" fill="#3b82f6">## Components</text>
+  <text x="100" y="1000" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Border radius: 8px</text>
+  <text x="100" y="1040" font-family="SF Mono, Monaco, Consolas, monospace" font-size="24" fill="#a1a1aa">Shadow: 0 2px 8px rgba(0,0,0,0.1)</text>
+
+  <!-- Footer labels -->
+  <text x="300" y="1180" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="24" fill="#22c55e" text-anchor="middle">Human-readable</text>
+  <text x="540" y="1180" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="24" fill="#ffffff" text-anchor="middle">+</text>
+  <text x="780" y="1180" font-family="Inter, SF Pro Display, -apple-system, sans-serif" font-size="24" fill="#3b82f6" text-anchor="middle">AI-readable</text>
+
+  <!-- Slide indicator dots -->
+  <circle cx="450" cy="1250" r="6" fill="#444"/>
+  <circle cx="480" cy="1250" r="6" fill="#444"/>
+  <circle cx="510" cy="1250" r="8" fill="#3b82f6"/>
+  <circle cx="540" cy="1250" r="6" fill="#444"/>
+  <circle cx="570" cy="1250" r="6" fill="#444"/>
+  <circle cx="600" cy="1250" r="6" fill="#444"/>
+  <circle cx="630" cy="1250" r="6" fill="#444"/>
+</svg>

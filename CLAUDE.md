@@ -141,6 +141,8 @@ These are phrases AI uses when trying to sound like a designer:
 | Company Research | `/company-research` | Research company's design work and culture |
 | Interview Prep | `/interview-prep` | Generate likely questions and talking points |
 | Thank You Email | `/thank-you` | Post-interview follow-up |
+| Portfolio Pitch | `/portfolio-pitch` | Tailor portfolio presentation for specific company |
+| Follow-Up Sequence | `/follow-up-sequence` | Day-by-day follow-up plan after applying |
 
 ---
 
