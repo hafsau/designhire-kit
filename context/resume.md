@@ -1,81 +1,70 @@
 # Your Resume
 
-Fill in your resume information below. This context is used by all skills to personalize your cover letters, application answers, and interview prep.
-
----
-
 ## Contact Info
 
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **Location:** [City, State/Country]
-- **Portfolio:** [yourportfolio.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
+- **Name:** Sarah Chen
+- **Email:** sarah.chen@email.com
+- **Location:** San Francisco, CA
+- **Portfolio:** sarahchen.design
+- **LinkedIn:** linkedin.com/in/sarahchendesign
 
 ---
 
 ## Professional Summary
 
-[2-3 sentences about who you are as a designer. What's your specialty? What kind of problems do you love solving? What makes you different?]
-
-Example:
-> Product designer with 5 years of experience in B2B SaaS and healthcare. I specialize in complex data visualization and accessible design. I ship fast and iterate based on real user feedback, not assumptions.
+Product designer with 6 years of experience in B2B SaaS and healthcare tech. I specialize in complex workflows, data visualization, and accessible design. I ship fast, validate with real users, and care deeply about craft.
 
 ---
 
 ## Experience
 
-### [Job Title] — [Company Name]
-**[Start Date] – [End Date or Present]** | [Location or Remote]
+### Senior Product Designer — Medley Health
+**Jan 2022 – Present** | San Francisco, CA (Hybrid)
 
-- [What you did — be specific, include metrics when possible]
-- [Another accomplishment with impact]
-- [Key project or initiative you led]
+- Led redesign of patient onboarding flow, reducing drop-off rate from 34% to 12%
+- Designed medication tracking interface used by 50K+ patients daily
+- Built and maintained design system with 120+ components across web and mobile
+- Collaborated with engineering to implement WCAG 2.1 AA compliance
+- Mentored 2 junior designers on research methods and design systems
 
-### [Previous Job Title] — [Previous Company]
-**[Start Date] – [End Date]** | [Location]
+### Product Designer — Stackflow
+**Mar 2019 – Dec 2021** | Remote
 
-- [Accomplishment with metric]
-- [Key responsibility or project]
+- Designed analytics dashboard that became the company's most-used feature
+- Reduced time-to-insight from 3 minutes to 30 seconds through progressive disclosure
+- Led user research program: 40+ interviews, 3 usability studies per quarter
+- Shipped design system from scratch, cutting design-to-dev handoff time by 50%
 
-*(Add more roles as needed)*
+### Junior Designer — Brightwork Agency
+**Jun 2017 – Feb 2019** | New York, NY
+
+- Designed web and mobile apps for 8 clients across fintech and e-commerce
+- Led visual design for Series A startup rebrand (raised $12M post-launch)
 
 ---
 
 ## Skills
 
-**Design:** [Figma, Sketch, Adobe XD, Framer, Principle, etc.]
-
-**Prototyping:** [Protopie, Origami, code prototypes, etc.]
-
-**Research:** [User interviews, usability testing, surveys, analytics, etc.]
-
-**Technical:** [HTML/CSS, React, Swift, accessibility standards, etc.]
-
-**Other:** [Design systems, motion design, illustration, etc.]
+**Design:** Figma, Sketch, Framer, Principle, After Effects
+**Prototyping:** Protopie, code prototypes (React basics)
+**Research:** User interviews, usability testing, surveys, analytics (Mixpanel, Amplitude)
+**Technical:** HTML/CSS, basic React, accessibility standards (WCAG 2.1)
+**Other:** Design systems, motion design, workshop facilitation
 
 ---
 
 ## Education
 
-**[Degree]** — [University Name], [Year]
-
-[Any relevant certifications, bootcamps, or courses]
+**BFA Graphic Design** — Rhode Island School of Design, 2017
 
 ---
 
 ## What I'm Looking For
 
-[What kind of role are you seeking? What matters to you? Remote? Company size? Industry?]
-
-Example:
-> Looking for a senior product design role at a mid-stage startup (50-500 people). Prefer remote or SF-based. Interested in developer tools, healthcare, or fintech. Want a team that values craft and ships regularly.
+Senior or Staff Product Designer role at a growth-stage company (100-1000 people). Prefer hybrid or remote. Interested in developer tools, healthcare, or complex B2B products. Want a team that values craft, ships regularly, and has strong design leadership.
 
 ---
 
 ## Notes for Claude
 
-[Any other context that helps personalize your applications — your story, career transitions, unique background, what you want to emphasize or downplay]
-
-Example:
-> I transitioned from graphic design to product design 4 years ago. Don't emphasize the early brand work. Focus on the last 3 roles where I did product work. I'm strong technically and can code my own prototypes — this is a differentiator.
+I'm strongest in complex B2B workflows and healthcare — lead with Medley work for healthcare roles, Stackflow for B2B/analytics roles. I can code basic prototypes which is a differentiator. Don't emphasize the agency work unless relevant. I'm looking to move into a staff role with more strategic influence.
