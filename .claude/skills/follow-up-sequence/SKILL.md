@@ -17,6 +17,14 @@ Then provide details about the application.
 3. Adapts based on company size and role level
 4. Tells you when to stop following up
 
+## Key Stats (2025 Data)
+
+- **Wait 7-10 business days** before first follow-up (not 3-5 days)
+- **2 follow-ups maximum** — more than that hurts your chances
+- **LinkedIn messages get 3x higher response** than cold email
+- **After 45 days with no response** — consider it a silent rejection
+- **75% of responses come within 8 days** — median is 6-7 days
+
 ## Instructions for Claude
 
 When the user runs `/follow-up-sequence`:
@@ -49,34 +57,51 @@ Applied: [Date]
 Action: Save the job description (it may be taken down)
 Notes: Record who posted it, any names mentioned
 
-## Day 1-2: LinkedIn Outreach
-Action: Message the hiring manager or recruiter
+## Day 1-3: Wait
+Action: None — let application process
+Watch for: Email confirmations, profile views
+
+## Day 7-10: First Follow-Up
+Action: LinkedIn message OR email (not both yet)
+Channel: LinkedIn preferred (3x response rate)
 Who to contact: [Name/role or how to find them]
-Message: [Ready-to-send message]
+Message: [Ready-to-send message with VALUE-ADD]
 
-## Day 3-5: Wait
-Action: None — give them time to see your application
-Watch for: Profile views, connection requests
+## Day 17-21: Second Follow-Up (Final)
+Action: Different channel than first attempt
+Only if: No response to first follow-up
+Message: [Ready-to-send message — different angle]
 
-## Day 7: Email Follow-Up (if you have email)
-Action: Send a brief follow-up email
-Only if: You have a direct email address
-Message: [Ready-to-send email]
-
-## Day 10-14: Final Check-In
-Action: One last message if no response
-Only if: You haven't heard anything
-Message: [Ready-to-send message]
-
-## After Day 14: Move On
+## After Day 21: Move On
 Action: Assume no response means no (for now)
-Don't: Send more messages
+Don't: Send more messages (2 is the max)
 Do: Keep applying elsewhere; they may resurface later
+
+## Day 45+: Silent Rejection
+Action: Close this opportunity mentally
+Lesson: Silence after 45 days = not moving forward
 ```
+
+### The Value-Add Framework
+
+**Every follow-up MUST include something new.** Never just "check in."
+
+**Types of value to add:**
+- New accomplishment or project since applying
+- Insight or perspective relevant to their challenges
+- Answer to a question from previous communication
+- Work sample or additional materials
+- Thoughtful question about company/team/projects
+
+**4 Core Elements per message:**
+1. Gratitude (brief)
+2. Value proposition (what you bring)
+3. Specific action (not generic)
+4. Confident closure
 
 ### Ready-to-Send Messages
 
-**Day 1-2 LinkedIn Message:**
+**Day 7-10 First Follow-Up (LinkedIn):**
 
 ```
 Hi [Name] — I applied for the [Role] at [Company] [today/yesterday].
@@ -122,9 +147,20 @@ Either way, thanks for your time.
 ### Adjustments by Scenario
 
 **If you have a referral:**
-- Mention the referral in Day 1-2 message
-- Ask your referral to nudge after Day 5 if no response
+- **Shorter window is OK**: 3-5 days to first follow-up (referral creates urgency)
+- Thank referrer FIRST with personalized message about how you applied
+- Mention referrer in hiring manager contact to move from "cold" to "warm"
+- Coordinate with referrer for timing and internal pressure
+- Keep referrer updated on progress
 - Your messages can be shorter — the referral does the heavy lifting
+
+**Referral-Specific Sequence:**
+```
+Day 0-1: Application + immediate thank you to referrer
+Day 3-5: One follow-up mentioning referral to hiring manager
+Day 10-14: Coordinate with referrer for status update
+Day 21+: Final follow-up through referrer if no response
+```
 
 **If it's a startup (<50 people):**
 - Faster timeline — compress to Day 1, Day 4, Day 7
@@ -254,11 +290,28 @@ Sarah
 - Strong design culture — they'll notice if you're a real user
 ```
 
+## Signs to Stop Following Up
+
+**Stop immediately if:**
+- No response after 2 follow-ups over 3+ weeks
+- 45+ days with silence = silent rejection
+- Explicit rejection email or message
+- Job posting closed or deadline passed
+- Company explicitly states "we'll contact you if interested"
+
+**Red flags that hurt your chances:**
+- Following up within 24-48 hours of applying (impatient)
+- Multiple follow-ups in one week (aggressive)
+- Following up before stated application deadline
+- 3+ follow-ups without encouragement (desperation flag)
+- Generic, repetitive messages without new value
+
 ## Notes
 
-- Always leave at least 2-3 days between messages
+- **Wait 7-10 days** before first follow-up (not 3-5)
+- **2 follow-ups maximum** — more hurts your chances
 - Never sound desperate or passive-aggressive
-- Include something of value in each message (not just "checking in")
-- Know when to stop — 3 touches maximum
+- Include something of VALUE in each message (not just "checking in")
+- **LinkedIn outperforms email** for cold outreach (3x response rate)
 - Adjust timeline based on company size and culture
-- If you have a referral, use it
+- If you have a referral, use it strategically

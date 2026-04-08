@@ -20,6 +20,13 @@ Then paste the question(s) you need to answer.
    - Shows personality and thinking process
    - Fits the typical word limit (150-300 words unless specified)
 
+## Key Stats (2025 Data)
+
+- **60% of interview questions are behavioral** — STAR method is essential
+- **35% higher success rate** with structured answers vs unstructured
+- **ATS systems use keyword matching** — mirror job description language
+- **Red flags that disqualify**: dishonesty, criticizing employers, poor prep
+
 ## Instructions for Claude
 
 When the user runs `/application-answer`:
@@ -63,7 +70,15 @@ When the user runs `/application-answer`:
 ## Common Question Types
 
 ### "Tell us about a time you..."
-Answer with the STAR method (Situation, Task, Action, Result) but lead with the result:
+Answer with the STAR method but with optimal time allocation:
+
+**STAR Time Allocation (critical for impact):**
+- **Situation**: 20% — context only, keep brief
+- **Task**: 10% — what YOU specifically owned
+- **Action**: 60% — THIS IS THE MOST IMPORTANT PART. Detail YOUR decisions and actions
+- **Result**: 10% — quantified outcomes + reflection
+
+Lead with the result, then explain:
 ```
 I reduced medication logging errors by 35% at Kaiser by redesigning their diabetes management workflow.
 
@@ -129,3 +144,32 @@ I haven't managed designers directly, but I've led cross-functional projects whe
 ```
 At [Company], I spent 3 weeks on a redesign before testing it — and users hated it. I'd assumed the problem was visual hierarchy, but the real issue was information architecture. I should have tested earlier. Now I run quick validation within the first week of any project, even if it's just 3 users and a paper prototype.
 ```
+
+## ATS Optimization
+
+Many applications are parsed by Applicant Tracking Systems. Optimize:
+
+- **Mirror exact phrases from job description** — ATS looks for 60-75% keyword match
+- **Use both acronyms AND full terms** — "UX (User Experience)" catches both searches
+- **Include specific tools mentioned** — Figma, Sketch, design systems, prototyping
+- **Standard section language** — Skills, Experience, Education (ATS expects these)
+
+## Red Flags to Avoid
+
+These instantly disqualify candidates:
+
+- **Dishonesty** — 63% of hiring managers cite this as #1 red flag
+- **Criticizing former employers** — 62% of executives view this as deal-breaker
+- **Generic/template answers** — hiring managers spot these immediately
+- **Vague impact claims** — "improved UX" without metrics
+- **Not answering the actual question** — signals poor communication
+- **Spelling/grammar errors** — shows lack of attention to detail
+
+## Quality Checks Before Submitting
+
+- [ ] Does the answer specifically address the question asked?
+- [ ] Is there at least one concrete metric or outcome?
+- [ ] Did I use "I" language showing my ownership (not just "we")?
+- [ ] Did I avoid criticism of past employers or colleagues?
+- [ ] Is the length appropriate (100-300 words)?
+- [ ] Did I mirror keywords from the job description?

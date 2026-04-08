@@ -21,6 +21,13 @@ Then provide:
    - Addresses any concerns that came up
    - Feels genuine, not templated
 
+## Why This Matters (2025 Data)
+
+- **68-86% of hiring managers** say thank-you emails influence decisions
+- **22% of employers** are less likely to hire candidates who don't send one
+- **Only 24-31% of candidates** actually send them (competitive advantage)
+- **91% of candidates** who followed up after interview received positive feedback
+
 ## Instructions for Claude
 
 When the user runs `/thank-you`:
@@ -53,10 +60,20 @@ When the user runs `/thank-you`:
 - Reference a real moment from the interview
 - Short — 4-6 sentences max
 
-**Timing:**
-- Send within 24 hours
-- Same day is ideal
-- Don't overthink it
+**Timing (Critical):**
+- **Sweet spot: 2-4 hours** after interview (fast enough to show urgency, slow enough for thought)
+- Same day preferred, but next morning acceptable for late interviews
+- **Hard deadline: 48-72 hours** — after this, impact drops significantly
+
+**Length:**
+- **Optimal: 85-200 words** (100-150 is ideal sweet spot)
+- Maximum: 250-300 words before reading stops
+- 3 short paragraphs (2-3 sentences each)
+
+**Individual vs Group:**
+- **ALWAYS send individual emails** — never CC multiple interviewers
+- Each person gets personalized reference to their specific questions/role
+- Companies notice if identical emails go to multiple people
 
 5. Output the email ready to send.
 
@@ -149,6 +166,45 @@ Best,
 ❌ "I wanted to follow up and reiterate my strong interest in the position. I believe my skills and experience make me an excellent candidate..."
 ```
 
+## Tone & Framing
+
+**Say "discussion" not "interview"** — sounds less transactional
+
+**Focus on THEIR needs, not your opportunity:**
+- Weak: "This would be a great opportunity for my growth"
+- Strong: "Given your timeline for the 3 capital projects, my experience delivering under budget would help"
+
+**Subject line:**
+- Simple is best: "Thanks for your time" or "Following up — [Position] Discussion"
+- Pro tip: Reply to original email thread for guaranteed open rate
+
+## Things to Avoid
+
+- **Don't send gifts/attachments** — perceived as bribery
+- **Don't mention salary/compensation** — save for negotiation
+- **Avoid excessive enthusiasm** — "best manager ever," "most excited in my life"
+- **Don't be overly formal OR too casual** — no slang, emojis, or corporate stiffness
+- **Don't request updates prematurely** — wait at least a week
+
+## Follow-Up If No Response
+
+If you don't hear back after sending thank-you:
+
+- **Wait 5-10 business days** (or 1 day after stated follow-up date)
+- **Reply to original thread** — higher open rate
+- **Keep to 1 paragraph** — restate interest + ask for update
+- **After 3-4 attempts** — move on; try department head as last resort
+
+## Quality Check Before Sending
+
+- [ ] Is it under 200 words?
+- [ ] Does it reference something SPECIFIC from our conversation?
+- [ ] Did I thank them for "the discussion" (not "the interview")?
+- [ ] Does it focus on their needs, not just my opportunity?
+- [ ] Is the CTA clear but not pushy?
+- [ ] Am I sending within 24 hours?
+- [ ] If panel interview, am I sending INDIVIDUAL emails?
+
 ## Notes
 
 - Reference something SPECIFIC — a comment, question, or insight from the conversation
@@ -156,3 +212,4 @@ Best,
 - If you have something to share (sketch, article, resource), offer it
 - If there was a concern, address it briefly and confidently
 - Don't oversell — you already interviewed, now just be human
+- **Sending a thank-you puts you ahead of 70%+ of candidates**

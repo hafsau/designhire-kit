@@ -17,6 +17,14 @@ Then provide the company name, role, and job description.
 3. Creates talking points that connect your portfolio to their needs
 4. Provides portfolio presentation guidance
 5. Suggests questions to ask them
+6. **Prepares you for modern interview formats** (whiteboard, AI exercises, etc.)
+
+## 2025 Interview Landscape
+
+- **60% of interview questions are behavioral** — prepare STAR stories
+- **AI literacy is expected** — be ready to discuss how you use AI tools
+- **Portfolio presentations are two-way** — seek feedback, don't just present
+- **Whiteboard challenges test process** — aesthetics matter less than thinking
 
 ## Instructions for Claude
 
@@ -116,9 +124,63 @@ Example good questions:
 
 5. Output a structured prep document.
 
+### Whiteboard Challenge Framework
+
+If the interview includes a design challenge, prepare:
+
+**5-Step Process (30-60 min typical):**
+1. **Ask Questions (5 min)** — Never start designing immediately. Ask about users, constraints, success metrics
+2. **Focus on Users (5 min)** — Map the user story/journey before any UI
+3. **Outline Flow (10 min)** — Sketch key screens/states at high level
+4. **Explore Alternatives (15-20 min)** — Generate 2-3 different approaches
+5. **Converge + Summary (5 min)** — Pick one, explain tradeoffs, invite feedback
+
+**Critical behaviors:**
+- Talk through every choice aloud — silence is interpreted negatively
+- Invite role-play: "Be a stakeholder while I..."
+- Iterate on feedback openly — don't defend ideas defensively
+- Acknowledge unknowns: "I don't know X, let me assume..."
+
+### AI Fluency (2025 Expectation)
+
+Be prepared to discuss:
+- How you use AI tools (Figma AI, ChatGPT, Adobe Firefly) in your workflow
+- Frame it as: "I use AI for [X] which lets me focus on [Y]"
+- Show you're a curator/editor of AI output, not just a user
+- If asked directly, don't hide it — embracing tools shows you're current
+
+### Common Mistakes to Avoid
+
+**Portfolio presentation:**
+- Starting with solutions instead of problem context
+- Using only "we" language without owning individual contributions
+- Presenting without a cohesive narrative/POV
+- Vague impact descriptions ("improved the UX")
+
+**Behavioral questions:**
+- Not using STAR structure (60% of time should be on Action)
+- Deflecting credit entirely to team
+- Criticizing former employers or colleagues
+
+**Design challenges:**
+- Starting to sketch before asking questions
+- Not seeking clarification on constraints
+- Defending ideas instead of iterating on feedback
+- Going silent while thinking (narrate your process)
+
+### What Gets Offers (vs Rejections)
+
+Top candidates demonstrate:
+1. **Structured problem-solving narrative** — not just pretty designs
+2. **Clear ownership language** — "I decided to..." not "we ended up..."
+3. **Business impact quantification** — even estimated metrics beat none
+4. **Graceful handling of feedback** — iteration mindset, not defensiveness
+5. **Thoughtful questions that show research** — not generic "what's the culture like?"
+
 ## Notes
 
 - Tailor everything to the specific role and company
 - Prioritize depth over breadth — they can't ask everything
 - Include both behavioral and portfolio questions
 - Help them prepare for awkward questions (gaps, failures, etc.)
+- **Mock interview practice is non-negotiable** — record yourself, critique, iterate
