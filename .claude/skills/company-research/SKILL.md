@@ -103,3 +103,12 @@ When the user runs `/company-research`:
 - Look for signals of design maturity (system, process, leadership)
 - Note any recent layoffs or restructuring that might affect the team
 - Include both positive signals and potential concerns
+
+## If Web Search Unavailable
+
+If you cannot access web search, ask the user to provide:
+- Company website URL
+- Links to their design blog, engineering blog, or careers page
+- Any job description they have
+
+Then analyze what's available and note which sections need more research.

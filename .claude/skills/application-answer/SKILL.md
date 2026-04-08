@@ -29,14 +29,16 @@ When the user runs `/application-answer`:
    - `context/portfolio.md` for case studies
    - `context/writing-style.md` for tone
 
-2. Ask user to paste the application question(s).
+2. **Check if context files are filled in.** If they contain placeholder text, ask the user to provide: name, relevant experience, 1-2 projects with metrics.
 
-3. For each question, identify:
+3. Ask user to paste the application question(s).
+
+4. For each question, identify:
    - What they're REALLY asking (underlying intent)
    - Which experience from the portfolio is most relevant
    - What metric or outcome demonstrates this skill
 
-4. Generate an answer following these rules:
+5. Generate an answer following these rules:
 
 **Structure:**
 - Lead with the answer, not the backstory
@@ -56,7 +58,7 @@ When the user runs `/application-answer`:
 - "Tell us about..." questions: 200-300 words
 - Follow any word limits specified
 
-5. Output answers clearly labeled by question.
+6. Output answers clearly labeled by question.
 
 ## Common Question Types
 

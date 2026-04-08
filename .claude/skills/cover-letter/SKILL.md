@@ -32,20 +32,24 @@ When the user runs `/cover-letter`:
    - `context/portfolio.md` for case studies and metrics
    - `context/writing-style.md` for tone preferences
 
-2. Ask the user to paste the job description.
+2. **Check if context files are filled in.** If they contain placeholder text like "[Your Name]" or template instructions, ask the user to either:
+   - Fill in the context files first, OR
+   - Provide quick info now: name, current role, 1-2 relevant projects with metrics, preferred tone
 
-3. Analyze the job description for:
+3. Ask the user to paste the job description.
+
+4. Analyze the job description for:
    - Company name and what they do
    - Key responsibilities and requirements
    - Design challenges they face
    - Skills they're looking for
 
-4. Match the user's experience to the job:
+5. Match the user's experience to the job:
    - Which case studies are most relevant?
    - What metrics demonstrate relevant skills?
    - What unique angle can they bring?
 
-5. Generate a cover letter following these rules:
+6. Generate a cover letter following these rules:
 
 **Structure:**
 - Opening (1 paragraph): Why this specific role/company excites you. Be specific — mention their product, recent work, or mission. Don't be generic.
@@ -63,7 +67,7 @@ When the user runs `/cover-letter`:
 
 **Length:** 250-400 words. Hiring managers skim — be concise.
 
-6. Output the cover letter in a clean format, ready to copy.
+7. Output the cover letter in a clean format, ready to copy.
 
 ## Example Output
 

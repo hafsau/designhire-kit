@@ -25,14 +25,20 @@ Then provide:
 
 When the user runs `/thank-you`:
 
-1. Ask for:
+1. Read context files:
+   - `context/resume.md` for the user's name
+   - `context/writing-style.md` for tone preferences
+
+2. **Check if context files are filled in.** If name is a placeholder, ask the user for their name.
+
+3. Ask for:
    - Interviewer's name and role
    - What you discussed (topics, projects, questions)
    - Anything specific that resonated or that you want to follow up on
    - Any concerns or hesitations that came up
    - Timeline mentioned (if any)
 
-2. Generate a thank you email following these rules:
+4. Generate a thank you email following these rules:
 
 **Structure:**
 - Opening: Thank them + reference something specific from the conversation
@@ -52,7 +58,7 @@ When the user runs `/thank-you`:
 - Same day is ideal
 - Don't overthink it
 
-3. Output the email ready to send.
+5. Output the email ready to send.
 
 ## Example Outputs
 

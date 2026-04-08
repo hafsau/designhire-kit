@@ -25,14 +25,17 @@ When the user runs `/interview-prep`:
 1. Read context files:
    - `context/resume.md` for background
    - `context/portfolio.md` for case studies
+   - `context/writing-style.md` for tone and personality
 
-2. Ask for:
+2. **Check if context files are filled in.** If they contain placeholder text, ask the user to provide: name, current role, 2-3 key projects with metrics, and any specific strengths to emphasize.
+
+3. Ask for:
    - Company name
    - Role title
    - Job description (paste it)
    - Interview stage (phone screen, portfolio review, onsite, etc.)
 
-3. Generate a comprehensive prep guide:
+4. Generate a comprehensive prep guide:
 
 ### Likely Questions
 
@@ -111,7 +114,7 @@ Example good questions:
 - "What's the biggest design challenge you're facing that this role would help with?"
 - "How do designers here influence the product roadmap?"
 
-4. Output a structured prep document.
+5. Output a structured prep document.
 
 ## Notes
 

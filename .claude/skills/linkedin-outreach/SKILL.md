@@ -32,12 +32,14 @@ When the user runs `/linkedin-outreach`:
    - `context/portfolio.md` for case studies
    - `context/writing-style.md` for tone
 
-2. Ask for:
+2. **Check if context files are filled in.** If they contain placeholder text, ask the user to provide: name, current role, 1-2 relevant projects, preferred tone.
+
+3. Ask for:
    - Who they're messaging (name, role, company)
    - The role they applied for
    - Anything specific they know about this person or the company's recent design work
 
-3. Generate a LinkedIn message following these rules:
+4. Generate a LinkedIn message following these rules:
 
 **Structure:**
 - Opening: Friendly greeting + specific reference to their work or the company (NOT "I hope this message finds you well")
@@ -55,7 +57,7 @@ When the user runs `/linkedin-outreach`:
 
 **Length:** 3-5 sentences max. LinkedIn messages should be skimmable.
 
-4. Output the message ready to copy.
+5. Output the message ready to copy.
 
 ## Example Outputs
 
