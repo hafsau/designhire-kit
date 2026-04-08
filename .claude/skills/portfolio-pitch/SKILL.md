@@ -13,10 +13,20 @@ Then provide the company name, role, and job description.
 ## What It Does
 
 1. Analyzes the company and role requirements
-2. Recommends which case studies to present
+2. Recommends which case studies to present (ordered by business impact)
 3. Tells you what to emphasize vs skip
 4. Provides a narrative thread connecting your work to their needs
 5. Suggests how to frame each project for this specific audience
+6. **Ensures your case studies lead with outcomes, not process**
+
+## Core Principle: Business Impact First
+
+Modern hiring managers (2025+) filter portfolios in 30 seconds. They're looking for:
+- **Business outcomes** — revenue, conversion, efficiency metrics
+- **Decision-making ability** — why you chose what you chose
+- **Shipped work** — not just concepts or explorations
+
+Pretty visuals won't save a weak case study. Impact will.
 
 ## Instructions for Claude
 
@@ -134,7 +144,70 @@ They'll likely ask:
   Your answer: [Honest pivot]
 ```
 
+### Case Study Structure Template
+
+For each case study, ensure it follows this structure:
+
+```
+1. OUTCOME FIRST (10% of time)
+   "This project increased [metric] by [X%]"
+   Start with the result, not the problem
+
+2. CONTEXT (10%)
+   Company, timeline, your role, team size
+   Keep this brief — they'll ask if they want more
+
+3. PROBLEM (15%)
+   What was broken? Why did it matter?
+   Use metrics: "40% error rate" not "users struggled"
+
+4. PROCESS (50%)
+   This is where you show HOW you think:
+   - Research methods and key insights
+   - Design decisions and tradeoffs
+   - Iteration based on feedback
+   - Collaboration with eng/PM
+
+   Show your work. Hiring managers want to see your process.
+
+5. RESULT (15%)
+   Specific metrics, user feedback, business impact
+   Connect back to the opening outcome
+```
+
+### 2025+ Expectations
+
+Modern design hiring has shifted. Address these in your pitch:
+
+**AI Tools Usage:**
+- If you use Figma AI, ChatGPT, or other AI tools — mention it
+- Framing: "I use AI for [X] which lets me focus on [Y]"
+- Don't hide it; embracing tools shows you're current
+
+**Niche vs Generalist:**
+- Senior roles increasingly want specialists
+- Position yourself: "I specialize in [X] but can do [Y]"
+- Example: "I focus on complex B2B tools, but I've done consumer work"
+
+**Shipped Work Only:**
+- Concepts and explorations are secondary
+- Lead with work that's live and measurable
+- If you only have concept work, frame why (NDA, startup failed, etc.)
+
 6. Output the complete pitch guide.
+
+### 30-Second Filter Test
+
+Before presenting your recommendations, check:
+
+```
+For each case study, can a hiring manager understand in 30 seconds:
+- [ ] What the project achieved (metric/outcome)
+- [ ] What you specifically did (not the team)
+- [ ] Why it matters to THEIR company
+
+If NO to any → restructure the pitch to front-load these
+```
 
 ## Example Output
 
@@ -198,3 +271,7 @@ They'll likely ask:
 - Include what to skip — this is as important as what to show
 - Prepare redirects for weak areas
 - Adjust formality based on company culture (startup vs enterprise)
+- **Lead with business impact** — metrics in the first 30 seconds
+- **Show process** — 50% of presentation should be how you think
+- **Be specific about your role** — "I led" vs "the team did"
+- Address AI tool usage proactively if relevant to the role

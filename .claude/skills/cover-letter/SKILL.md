@@ -15,8 +15,9 @@ Then paste the job description when prompted.
 1. Reads your resume from `context/resume.md`
 2. Reads your portfolio case studies from `context/portfolio.md`
 3. Reads your writing style preferences from `context/writing-style.md`
-4. Analyzes the job description you provide
-5. Generates a 3-4 paragraph cover letter that:
+4. **Researches the company** before writing
+5. Analyzes the job description you provide
+6. Generates a 3-4 paragraph cover letter that:
    - Opens with something specific about why this role interests you
    - Connects your portfolio work to their needs
    - References specific metrics from your experience
@@ -26,6 +27,8 @@ Then paste the job description when prompted.
 ## Instructions for Claude
 
 When the user runs `/cover-letter`:
+
+### Phase 1: Context Gathering
 
 1. First, read the user's context files:
    - `context/resume.md` for their background
@@ -38,18 +41,40 @@ When the user runs `/cover-letter`:
 
 3. Ask the user to paste the job description.
 
-4. Analyze the job description for:
+### Phase 2: Company Research (Before Writing)
+
+4. **Research the company before drafting.** Use web search to find:
+   - Recent product launches or design updates
+   - Blog posts about their design process
+   - Team structure (who's on the design team)
+   - Recent news, funding, or company changes
+   - Their design system (if public)
+
+   This research should inform specific references in the letter. Don't just write generic praise.
+
+5. Analyze the job description for:
    - Company name and what they do
    - Key responsibilities and requirements
    - Design challenges they face
    - Skills they're looking for
+   - **Tone signals** — is this a startup (casual) or enterprise (formal)?
 
-5. Match the user's experience to the job:
+### Phase 3: Matching & Tone Calibration
+
+6. Match the user's experience to the job:
    - Which case studies are most relevant?
    - What metrics demonstrate relevant skills?
    - What unique angle can they bring?
 
-6. Generate a cover letter following these rules:
+7. **Calibrate tone to match the company:**
+   - Startup (<50 people): Casual, direct, personality-forward
+   - Growth stage (50-500): Professional but warm
+   - Enterprise (500+): More formal, emphasize scale and process
+   - Read their job posting language and mirror it
+
+### Phase 4: Writing
+
+8. Generate a cover letter following these rules:
 
 **Structure:**
 - Opening (1 paragraph): Why this specific role/company excites you. Be specific — mention their product, recent work, or mission. Don't be generic.
@@ -118,12 +143,45 @@ Best regards,
 [Name]
 ```
 
+## Quality Checks (Before Output)
+
+Before presenting the final letter, run these internal checks:
+
+### Specificity Test
+Ask yourself: "Could this letter be sent to a different company by changing the name?"
+- If YES → rewrite with more specific references
+- If NO → good to go
+
+The letter should reference:
+- Something specific about THEIR product, design, or recent work
+- A specific challenge from THEIR job description
+- Why YOUR experience connects to THEIR situation
+
+### Quantification Check
+The letter MUST include at least one metric:
+- Revenue/conversion impact: "increased signups by 23%"
+- Efficiency gains: "reduced time-to-task by 40%"
+- Scale: "design system used by 15 engineers across 3 products"
+- Error reduction: "decreased support tickets by 30%"
+
+If the user's portfolio lacks metrics, ask them for approximate numbers before writing.
+
+### Audience Audit
+Before finalizing, check:
+- [ ] Does the opening hook grab attention in the first sentence?
+- [ ] Is the company research visible (not generic praise)?
+- [ ] Does the tone match the company culture?
+- [ ] Are case studies referenced by name with metrics?
+- [ ] Is the CTA specific, not generic?
+- [ ] Would a hiring manager read past the first paragraph?
+
 ## Notes
 
 - Always reference at least one case study by name
 - Always include at least one metric
 - Match the formality level to the company (startup vs enterprise)
 - If they mention specific technologies or methods, connect to your experience with them
+- Do company research BEFORE writing — this is what makes it specific
 
 ## When Experience Doesn't Match Directly
 
