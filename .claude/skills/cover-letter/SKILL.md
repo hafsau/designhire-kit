@@ -69,8 +69,9 @@ When the user runs `/cover-letter`:
 
 7. Output the cover letter in a clean format, ready to copy.
 
-## Example Output
+## Example Outputs
 
+### Example 1: B2B SaaS Role (Senior Level)
 ```
 Hi [Hiring Manager],
 
@@ -86,9 +87,62 @@ Best,
 [Name]
 ```
 
+### Example 2: Startup Role (Scrappy Tone)
+```
+Hey team,
+
+Your job post mentioned you're looking for someone comfortable with ambiguity. That's my comfort zone.
+
+At my last startup, I was the only designer for 8 months. I shipped a complete onboarding redesign in 3 weeks that improved activation by 18% — no design system, no researchers, just me and a lot of user calls. I've since learned the value of process, but I still know how to move fast when it matters.
+
+I saw you're rebuilding the dashboard. I did something similar at Stackflow — took a "powerful but confusing" analytics tool and made it actually usable. Time-to-insight dropped from 3 minutes to 30 seconds. Happy to share how.
+
+What's the best way to continue the conversation?
+
+[Name]
+```
+
+### Example 3: Enterprise Role (Formal Tone)
+```
+Dear Hiring Manager,
+
+I'm writing regarding the Senior Product Designer position on the Enterprise Platform team.
+
+My background is in designing complex B2B applications for regulated industries. At Medley Health, I led the redesign of a medication management system used by 50,000+ patients. The project required balancing strict compliance requirements with usability — we reduced error rates by 76% while maintaining HIPAA compliance.
+
+I've also built and maintained design systems at scale. My component library at Medley serves 3 products and 15 engineers, with documented accessibility standards that brought our audit pass rate from 60% to 94%.
+
+I'd welcome the opportunity to discuss how my experience with enterprise-scale design challenges could contribute to your platform team.
+
+Best regards,
+[Name]
+```
+
 ## Notes
 
 - Always reference at least one case study by name
 - Always include at least one metric
 - Match the formality level to the company (startup vs enterprise)
 - If they mention specific technologies or methods, connect to your experience with them
+
+## When Experience Doesn't Match Directly
+
+If the user's portfolio doesn't directly match the job requirements:
+
+1. **Find transferable skills** — Complex healthcare UI → Complex fintech UI. Design system work → Any systems thinking role.
+
+2. **Acknowledge the gap honestly** — Don't pretend. Say something like: "I haven't worked in [industry] specifically, but my work on [project] involved similar challenges: [specific parallel]."
+
+3. **Lead with learning ability** — Reference a time you ramped up quickly on something unfamiliar.
+
+4. **Focus on problem-solving patterns** — "I haven't designed for developers, but I've designed for power users who need efficiency over hand-holding — same principle."
+
+**Example for career switcher:**
+```
+I'm coming from [previous field], which might seem unrelated, but the core challenge is the same: [specific parallel]. At [Company], I [specific example that shows transferable skill]. I'd bring that same approach to [their challenge].
+```
+
+**Example for industry switch:**
+```
+Most of my work has been in healthcare, not fintech. But both require designing for high-stakes decisions where errors have real consequences. My MedRec project dealt with similar constraints: compliance requirements, complex data, users who need speed and accuracy.
+```

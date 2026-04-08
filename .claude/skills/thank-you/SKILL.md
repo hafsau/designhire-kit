@@ -110,6 +110,38 @@ Best,
 [Name]
 ```
 
+**Good Example 4 (after whiteboard/design challenge):**
+```
+Subject: Thanks — and a revised take on the onboarding flow
+
+Hi [Name],
+
+Thanks for the design challenge today. The constraint you added mid-way (supporting offline mode) completely changed my approach — in a good way.
+
+I kept thinking about it after and sketched a simpler solution. Attached if you're curious. Either way, I appreciated the realistic challenge.
+
+Looking forward to hearing about next steps.
+
+Best,
+[Name]
+```
+
+**Good Example 5 (panel interview — multiple people):**
+```
+Subject: Thanks for the conversations today
+
+Hi [Name],
+
+Thanks for coordinating today's interviews. The conversations with [Person 1] about design systems and [Person 2] about research ops gave me a much clearer picture of the team's challenges.
+
+[Person 1]'s question about token architecture stuck with me — I have some thoughts on the migration approach that might be useful. Happy to share.
+
+Appreciate everyone's time. Looking forward to next steps.
+
+Best,
+[Name]
+```
+
 **Bad Examples (don't do this):**
 ```
 ❌ "Thank you so much for taking the time to meet with me today. I really enjoyed our conversation and learning more about the role. I'm very excited about the opportunity..."

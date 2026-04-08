@@ -1,5 +1,19 @@
 # Your Portfolio
 
+> **⚠️ EXAMPLE DATA BELOW — REPLACE WITH YOUR OWN INFO**
+>
+> This file contains sample case studies to show you the format.
+> Delete everything below this box and fill in your own projects.
+>
+> **What makes a strong case study:**
+> - Specific metrics (not "improved performance" but "reduced load time by 40%")
+> - Your role clearly stated (what YOU did, not the team)
+> - The problem framed as business/user impact
+> - Key decisions that show your thinking
+> - Honest reflection on what you learned
+
+---
+
 ## Case Study 1: MedTrack — Medication Management Redesign
 
 **Company:** Medley Health

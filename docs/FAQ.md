@@ -99,8 +99,8 @@ Check the download page for new versions. Back up your `context/` folder before 
 
 ### Something's broken. Where do I get help?
 - Check this FAQ
-- Join the Discord community
-- Email support@[your-domain].com
+- Open an issue on GitHub: https://github.com/hafsau/designhire-kit/issues
+- Email for direct help (see README for contact)
 
 ### Can I request new skills?
 Yes! Let us know what would help your job search. Common requests may become new skills.

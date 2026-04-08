@@ -1,5 +1,12 @@
 # Your Resume
 
+> **⚠️ EXAMPLE DATA BELOW — REPLACE WITH YOUR OWN INFO**
+>
+> This file contains sample data for "Sarah Chen" to show you the format.
+> Delete everything below this box and fill in your own details.
+
+---
+
 ## Contact Info
 
 - **Name:** Sarah Chen

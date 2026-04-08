@@ -107,3 +107,25 @@ The final design was 60% of my original vision, but it shipped in half the time 
 - If you don't have a perfect example, be honest about adaptation
 - Show self-awareness and growth
 - Don't answer questions you weren't asked
+
+## When You Don't Have Direct Experience
+
+If the question asks about something not in the user's portfolio:
+
+1. **Find the closest parallel** — "I haven't led a design system from scratch, but I contributed to one and understand the challenges..."
+
+2. **Be honest, then pivot** — "I don't have direct experience with [X], but I faced a similar challenge when [related example]."
+
+3. **Show learning ability** — Reference how quickly you've ramped up on unfamiliar things before.
+
+4. **Don't make things up** — Never invent experience. It's better to show self-awareness than to lie.
+
+**Example answer for missing experience:**
+```
+I haven't managed designers directly, but I've led cross-functional projects where I was responsible for coordinating work across 3 engineers and a PM. The core skills are the same: clear communication, removing blockers, and creating space for people to do their best work. I'd bring that same approach to managing a design team.
+```
+
+**Example for "tell me about a failure":**
+```
+At [Company], I spent 3 weeks on a redesign before testing it — and users hated it. I'd assumed the problem was visual hierarchy, but the real issue was information architecture. I should have tested earlier. Now I run quick validation within the first week of any project, even if it's just 3 users and a paper prototype.
+```

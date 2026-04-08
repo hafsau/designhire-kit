@@ -172,8 +172,8 @@ When updates are released:
 ## Getting Help
 
 - Check `docs/FAQ.md` for common questions
-- Join our Discord for community support
-- Email support@[your-domain].com for direct help
+- Open an issue on GitHub: https://github.com/hafsau/designhire-kit/issues
+- Email for direct help (see README for contact)
 
 ---
 

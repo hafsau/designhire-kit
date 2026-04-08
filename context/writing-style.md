@@ -1,5 +1,12 @@
 # Your Writing Style
 
+> **⚠️ EXAMPLE DATA BELOW — REPLACE WITH YOUR OWN INFO**
+>
+> This file contains sample preferences to show you the format.
+> Update the checkboxes and notes to match YOUR voice.
+
+---
+
 ## Tone
 
 - [x] **Direct** — I get to the point quickly, minimal fluff

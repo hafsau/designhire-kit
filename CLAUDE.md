@@ -1,15 +1,8 @@
 # DesignHire Kit — Claude Code Skills for Designers
 
+**Version:** 0.1.0-beta
+
 A collection of Claude Code skills to automate your job search. Portfolio-aware, humanized, designer-first.
-
----
-
-## About You (Fill This In)
-
-**Name:** [Your name]
-**Current Role:** [e.g., Senior Product Designer]
-**Location:** [e.g., San Francisco Bay Area]
-**Work Authorization:** [e.g., US Citizen / Authorized to work without sponsorship]
 
 ---
 
@@ -64,6 +57,38 @@ When generating content, ALWAYS follow these rules to sound human, not AI:
 - Generic conclusions ("I look forward to hearing from you")
 - Meta-signposting ("In this letter, I will...")
 - Persuasive tropes ("At its core...")
+
+### Designer-Specific Patterns to AVOID
+These are phrases AI uses when trying to sound like a designer:
+
+**Fake humility:**
+- "I had the privilege of..." (just say "I worked on")
+- "I was fortunate to..." (just say what you did)
+- "I humbly believe..." (just state your opinion)
+
+**Buzzword soup:**
+- "Human-centered design thinking methodologies"
+- "Holistic user experience ecosystem"
+- "Design-driven innovation framework"
+- "Cross-functional collaborative synergies"
+
+**Vague impact claims:**
+- "Significantly improved the user experience"
+- "Made a meaningful impact on the product"
+- "Drove engagement and satisfaction"
+- (Always use specific metrics instead)
+
+**Process theater:**
+- "After extensive stakeholder alignment sessions..."
+- "Through rigorous design thinking workshops..."
+- "Following comprehensive user research phases..."
+- (Just describe what you actually did)
+
+**Emotional overselling:**
+- "I'm incredibly passionate about..."
+- "I'm deeply committed to..."
+- "I'm extremely excited about the opportunity..."
+- (Show passion through specifics, not adjectives)
 
 ### What TO DO Instead
 - Be specific and direct

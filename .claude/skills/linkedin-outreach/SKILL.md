@@ -76,6 +76,16 @@ Hey Marcus — I applied for the Product Designer role today. I've been followin
 Hi Jamie — I just applied for the Senior Designer role at Stripe. My background is in complex B2B tools (fintech and healthcare), and I've shipped design systems at scale. The Dashboard work Stripe's team has done is exactly what I want to be building. Would love to chat if the fit looks good.
 ```
 
+### Example 4: No Specific Info About Person
+```
+Hi [Name] — I applied for the Product Designer role at [Company] today. I've been following your design blog — the recent post about your icon system redesign was exactly the kind of systems problem I love solving. Built something similar at my last company. Would be great to chat if the role's still open.
+```
+
+### Example 5: Cold Outreach (No Open Role)
+```
+Hi [Name] — I've been using [Product] daily for the past year and the recent [Feature] update is impressive. I'm a product designer focused on complex tools, and I'd love to be part of what you're building. Not sure if you're hiring, but wanted to reach out. Happy to share my portfolio if useful.
+```
+
 **Bad Examples (don't do this):**
 ```
 ❌ "I hope this message finds you well! I'm reaching out because I'm very interested in the role..."
