@@ -56,7 +56,7 @@ A Claude Code starter kit that automates your designer job search. Portfolio-awa
    ```
    /skills
    ```
-   You should see all 8 skills listed.
+   You should see all 12 skills listed.
 
 ## Usage
 
