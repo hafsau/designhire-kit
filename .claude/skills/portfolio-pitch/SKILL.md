@@ -196,6 +196,33 @@ Modern design hiring has shifted. Address these in your pitch:
 
 6. Output the complete pitch guide.
 
+### Phase 7: Hiring Manager Review (Built-In Evaluation)
+
+7. **Put on your design hiring manager hat** and evaluate the pitch:
+   - Would this portfolio pitch make you want to hire this person?
+   - Are the case studies clearly connected to the role's needs?
+   - Is the narrative compelling or generic?
+   - What's missing that would make the pitch stronger?
+
+Include this evaluation in the output:
+
+```
+## Hiring Manager Review
+
+**Putting on my design hiring manager hat:**
+
+**Would I move forward with this candidate?** [YES / MAYBE / NO]
+
+**What's compelling:**
+- [Specific strengths of the pitch for THIS role]
+
+**What's weak or missing:**
+- [Gaps, unconvincing parts, or concerns]
+
+**To make this pitch stronger:**
+- [Specific, actionable recommendations]
+```
+
 ### 30-Second Filter Test
 
 Before presenting your recommendations, check:

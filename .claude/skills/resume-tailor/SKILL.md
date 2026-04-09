@@ -100,6 +100,17 @@ When the user runs `/resume-tailor`:
     - Keyword match summary
     - Any warnings (missing required skills, etc.)
 
+### Phase 6: Recruiter Review (Built-In Evaluation)
+
+13. **Put on your senior recruiter hat** and evaluate the resume:
+    - Do a 6-second scan — what's the first impression?
+    - Identify strengths that would make you want to interview
+    - Flag red flags or concerns a recruiter would have
+    - Give a verdict: STRONG FIT / GOOD FIT / WEAK FIT / NOT A FIT
+    - Provide specific recommendation to strengthen before sending
+
+This evaluation should be honest and critical — it's better to catch issues now than after sending.
+
 ## Output Format
 
 ```
@@ -142,6 +153,27 @@ When the user runs `/resume-tailor`:
 
 **Warnings:**
 - [Any gaps or concerns to address in cover letter]
+
+---
+
+## Recruiter Review
+
+**Putting on my senior recruiter hat (10+ years hiring designers):**
+
+**First Impression (6-second scan):**
+[What stands out? What's confusing? Would I keep reading?]
+
+**Strengths:**
+- [What makes this candidate compelling for THIS role]
+- [What would make me want to interview them]
+
+**Red Flags / Concerns:**
+- [What might make me hesitate]
+- [What questions would I have]
+
+**Verdict:** [STRONG FIT / GOOD FIT / WEAK FIT / NOT A FIT]
+
+**Recommendation:** [Specific suggestion to strengthen before sending]
 ```
 
 ## Example

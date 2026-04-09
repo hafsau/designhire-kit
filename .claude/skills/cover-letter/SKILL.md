@@ -175,6 +175,34 @@ Before finalizing, check:
 - [ ] Is the CTA specific, not generic?
 - [ ] Would a hiring manager read past the first paragraph?
 
+### Recruiter Review (Built-In Evaluation)
+
+After generating the cover letter, **put on your senior recruiter hat** and evaluate it:
+
+Include this in the output:
+
+```
+## Recruiter Review
+
+**Putting on my senior recruiter hat (reviewed 10,000+ applications):**
+
+**First Impression:**
+[Would I keep reading after the first paragraph? Why/why not?]
+
+**What works:**
+- [Specific strengths of this letter]
+
+**What's weak:**
+- [What might make me skeptical or lose interest]
+
+**Verdict:** [STRONG / GOOD / NEEDS WORK / WEAK]
+
+**To improve before sending:**
+- [Specific, actionable suggestion]
+```
+
+This evaluation should be honest — a lukewarm letter that gets sent is worse than a strong letter that took another revision.
+
 ## Notes
 
 - Always reference at least one case study by name
