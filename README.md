@@ -4,8 +4,9 @@ A Claude Code starter kit that automates your designer job search. Portfolio-awa
 
 ## What's Included
 
-**8 Skills:**
+**9 Skills:**
 - `/cover-letter` — Generate portfolio-backed cover letters from job descriptions
+- `/resume-tailor` — Customize your resume for specific roles with ATS optimization
 - `/linkedin-outreach` — Write short, personal messages to hiring managers
 - `/application-answer` — Answer common application questions with real examples
 - `/company-research` — Research a company's design work and culture
@@ -87,11 +88,14 @@ designhire-kit/
 ├── CLAUDE.md              # Master context + humanizer rules
 ├── .claude/skills/        # Skill definitions
 │   ├── cover-letter/
+│   ├── resume-tailor/
 │   ├── linkedin-outreach/
 │   ├── application-answer/
 │   ├── company-research/
 │   ├── interview-prep/
-│   └── thank-you/
+│   ├── thank-you/
+│   ├── portfolio-pitch/
+│   └── follow-up-sequence/
 ├── context/               # Your info (edit these)
 │   ├── resume.md
 │   ├── portfolio.md

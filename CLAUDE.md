@@ -136,6 +136,7 @@ These are phrases AI uses when trying to sound like a designer:
 | Skill | Command | Description |
 |-------|---------|-------------|
 | Cover Letter | `/cover-letter` | Portfolio-aware cover letter from job description |
+| Resume Tailor | `/resume-tailor` | Customize resume for specific role with ATS optimization |
 | LinkedIn Outreach | `/linkedin-outreach` | Message to hiring manager or recruiter |
 | Application Answers | `/application-answer` | Answer common application questions |
 | Company Research | `/company-research` | Research company's design work and culture |
