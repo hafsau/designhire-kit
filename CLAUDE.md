@@ -144,6 +144,9 @@ These are phrases AI uses when trying to sound like a designer:
 | Thank You Email | `/thank-you` | Post-interview follow-up |
 | Portfolio Pitch | `/portfolio-pitch` | Tailor portfolio presentation for specific company |
 | Follow-Up Sequence | `/follow-up-sequence` | Day-by-day follow-up plan after applying |
+| Informational Interview | `/informational-interview` | Reach out to designers at target companies |
+| Reference Request | `/reference-request` | Request references from past managers/colleagues |
+| Networking Outreach | `/networking-outreach` | Build genuine professional relationships |
 
 ---
 
