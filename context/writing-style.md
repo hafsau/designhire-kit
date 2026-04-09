@@ -1,57 +1,60 @@
 # Your Writing Style
 
-> **⚠️ EXAMPLE DATA BELOW — REPLACE WITH YOUR OWN INFO**
->
-> This file contains sample preferences to show you the format.
-> Update the checkboxes and notes to match YOUR voice.
-
 ---
 
 ## Tone
 
 - [x] **Direct** — I get to the point quickly, minimal fluff
-- [x] **Warm** — I'm personable and friendly, even in professional contexts
+- [x] **Warm** — I'm personable and approachable, not robotic
 - [x] **Confident** — I state things clearly without hedging
-- [ ] **Casual** — Not too casual, but not stiff either
-- [x] **Technical** — I'm comfortable using design/tech jargon when appropriate
+- [x] **Technical** — I'm comfortable with design and engineering jargon
+- [ ] **Casual** — Professional but not stiff
 
 **My notes:**
-I'm direct but warm. I don't use corporate buzzwords or hedge with "I think" and "maybe." I have opinions and I share them. I'm friendly but not bubbly — no excessive exclamation points.
+I'm direct and warm. I let my work speak — metrics over adjectives. I have opinions and share them. I don't use corporate buzzwords or hedge with "I think" and "maybe." I'm friendly but not bubbly. One exclamation point max.
 
 ---
 
 ## Vocabulary Preferences
 
 ### Words/Phrases I USE:
-- "ship," "shipped"
-- "craft"
-- "iterate"
+- "ship," "shipped," "shipping"
+- "build," "built," "builder"
 - "dig into"
 - "the gist is..."
-- "folks"
+- "that said..."
 - "tricky" (instead of "challenging")
-- "nailed it" / "missed the mark"
+- "constraints"
+- "edge cases"
+- "trade-offs"
 
 ### Words/Phrases I AVOID:
 - "leverage"
 - "synergy"
-- "circle back"
-- "touch base"
 - "passionate about"
 - "excited to announce"
 - "I believe" (just say it)
 - "utilize" (just say "use")
+- "circle back"
+- "touch base"
+- "stakeholder alignment"
+- "holistic"
+- "innovative"
+- "cutting-edge"
 
 ### Industry Terms I'm Comfortable With:
 - design systems
 - progressive disclosure
 - information architecture
 - usability testing
-- accessibility / a11y
-- design tokens
-- component library
-- user flows
+- accessibility / a11y / WCAG
+- user research
 - prototyping
+- wireframing
+- cross-functional
+- prompt engineering
+- CI/CD
+- API
 
 ---
 
@@ -62,35 +65,39 @@ I'm direct but warm. I don't use corporate buzzwords or hedge with "I think" and
 - [ ] **Complex sentences** — Not really my style
 
 **How I naturally write:**
-I write in short sentences. Sometimes I'll use a longer one to explain something complex, but I break it up. I don't do run-on sentences. I like fragments for emphasis. Like this.
+Short sentences. Direct. I'll use a longer one when explaining something technical, but I break it up. I like fragments for emphasis. Like this. I don't do run-on sentences or overly complex structures.
 
 ---
 
 ## Personality Traits to Convey
 
 - [x] Confident (not arrogant)
-- [x] Curious
-- [x] Collaborative
-- [x] Pragmatic / gets things done
+- [x] Technical depth
+- [x] Ships things (bias toward action)
+- [x] Pragmatic
 - [x] Detail-oriented
-- [ ] Big-picture thinker (sometimes, but not my lead)
 - [x] Analytical
+- [x] Collaborative
 - [ ] Humble (confident is more accurate)
+- [ ] Big-picture only (I go deep too)
 
 **My notes:**
-I want to come across as someone who ships. I'm not precious about my designs — I care about outcomes. I'm opinionated but I listen. I'm the person you want on your team when things are messy.
+I want to come across as someone who ships. I'm not precious about my designs — I care about outcomes. I'm the person you want when things are messy and need to get done. I can talk to engineers and designers equally. I have opinions but I listen.
 
 ---
 
 ## Things to NEVER Do
 
 - Never use more than 1 exclamation point per message
-- Never say "I'm passionate about..."
+- Never say "I'm passionate about..." or "I'm excited about the opportunity..."
 - Never start with "I hope this finds you well"
 - Never use "synergy," "leverage," or "utilize"
-- Never end with "Please feel free to reach out"
+- Never end with "Please feel free to reach out" or "I look forward to hearing from you"
 - Never use em dashes more than once per paragraph
-- Never say "I think" when I mean "I believe" or can just state it
+- Never say "I think" when I can just state it
+- Never use vague impact claims ("significantly improved") — use numbers
+- Never use fake humility ("I had the privilege of...")
+- Never use buzzword soup ("human-centered design thinking methodologies")
 
 ---
 
@@ -98,40 +105,34 @@ I want to come across as someone who ships. I'm not precious about my designs �
 
 ### Example 1: Email to a hiring manager
 ```
-Hi Marcus,
+Hi [Name],
 
-I saw the Product Designer role and wanted to reach out directly. I've been following Linear's work on keyboard navigation — it's the kind of detail-obsessed design I want to be doing.
+I saw the Product Designer role and wanted to reach out directly. You're building exactly the kind of complex, high-stakes product I work on — my last project was a diabetes management app where I reduced error rates by 35%.
 
-My background is in complex B2B tools. At Stackflow, I redesigned an analytics dashboard that went from "confusing" to "most-used feature." The key was showing insights, not data. Users don't want spreadsheets; they want answers.
+What caught my attention was [specific thing about company/role]. I've done similar work at [relevant project], where [specific outcome].
 
-I'd love to chat about the role. Let me know if you have 20 minutes this week.
+I'd love to chat about the role. Do you have 20 minutes this week?
 
 Best,
-Sarah
+Hafsa
 ```
 
-### Example 2: Slack message to a PM
+### Example 2: LinkedIn message
 ```
-Hey! Quick update on the onboarding flow:
+Hi [Name] — I just applied for the [Role] at [Company]. I noticed you recently shipped [specific thing]. The approach you took is similar to what I did on my healthcare app — would love to hear how you handled [specific challenge].
 
-Tested with 5 users yesterday. Good news: the new progressive disclosure is working — nobody got overwhelmed. Bad news: 3/5 missed the "add medication" button entirely. It's too subtle.
-
-I'm going to try a more prominent CTA and re-test Thursday. Will share results in our Friday sync.
+Either way, congrats on the launch.
 ```
 
-### Example 3: LinkedIn post
+### Example 3: Cover letter opening
 ```
-Shipped a redesign last month. Error rates dropped 75%.
-
-The trick wasn't fancy UI — it was removing options. The old design showed 40 choices. The new one shows 5.
-
-Users don't want flexibility. They want to finish the task and move on.
-
-Sometimes the best design is less design.
+I saw the [Role] at [Company] and got excited — you're tackling [specific problem] which is exactly what I've been working on. My recent project, MedRec, was a diabetes management app where I reduced error rates by 35% by simplifying a workflow that was overwhelming users.
 ```
 
 ---
 
 ## Notes for Claude
 
-I tend to be too wordy in drafts — help me be more concise. Lead with the punchline, not the buildup. I like short paragraphs. Don't add qualifiers like "I think" or "perhaps" — just say it. Match the energy of my samples above.
+I tend to be direct — don't soften my voice. Lead with the punchline, not the buildup. Use metrics, not adjectives. Don't add qualifiers like "I think" or "perhaps" — just say it. Match the energy of my samples above. Keep paragraphs short. When in doubt, cut words.
+
+My differentiator is that I ship code, not just mockups. Weave that in naturally when relevant. I have an MS in CS, AWS certification, and I've built production apps with Claude, React, Flask. That's unusual for a designer — use it.

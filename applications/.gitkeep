@@ -1,0 +1,33 @@
+# Applications Folder
+
+This folder stores your job application outputs organized by company.
+
+Structure:
+```
+applications/
+├── company-name/
+│   ├── resume.md
+│   ├── resume.pdf
+│   ├── cover-letter.md
+│   ├── cover-letter.pdf
+│   └── notes.md
+```
+
+## Converting to PDF
+
+Option 1: Use pandoc (recommended)
+```bash
+brew install pandoc
+pandoc resume.md -o resume.pdf
+```
+
+Option 2: Use a Markdown editor (Typora, iA Writer, etc.)
+- Open .md file → Export as PDF
+
+Option 3: Use VS Code
+- Install "Markdown PDF" extension
+- Right-click .md file → Markdown PDF: Export (pdf)
+
+Option 4: Online converter
+- Copy markdown to https://markdowntohtml.com
+- Print to PDF from browser

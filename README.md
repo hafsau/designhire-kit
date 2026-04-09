@@ -107,6 +107,11 @@ designhire-kit/
 │   ├── portfolio.md
 │   ├── writing-style.md
 │   └── target-companies.md
+├── applications/          # Generated outputs (per company)
+│   └── [company-name]/
+│       ├── cover-letter.md
+│       ├── resume.md
+│       └── *.pdf
 ├── templates/             # Reference templates
 └── docs/                  # Full documentation
 ```

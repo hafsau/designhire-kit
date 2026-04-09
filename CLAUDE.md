@@ -150,6 +150,34 @@ These are phrases AI uses when trying to sound like a designer:
 
 ---
 
+## Saving Outputs
+
+When generating cover letters, resumes, or other application materials:
+
+1. **Save to the `applications/` folder** organized by company:
+   ```
+   applications/
+   ├── linear/
+   │   ├── cover-letter.md
+   │   ├── resume.md
+   │   └── notes.md
+   ├── figma/
+   │   └── ...
+   ```
+
+2. **Convert to PDF before submitting** (formatting matters):
+   ```bash
+   # Install pandoc once
+   brew install pandoc
+
+   # Convert any .md to .pdf
+   pandoc cover-letter.md -o cover-letter.pdf
+   ```
+
+3. **Always save as files** — don't just display in terminal. Ask Claude to save outputs to `applications/[company-name]/`
+
+---
+
 ## Tips for Best Results
 
 1. **Be specific in your context files** — The more details, the better output
@@ -157,3 +185,4 @@ These are phrases AI uses when trying to sound like a designer:
 3. **Name your case studies** — Reference them by name, not "a project"
 4. **Update regularly** — Keep context files current
 5. **Edit the output** — AI is a starting point, not final draft
+6. **Save and convert to PDF** — Terminal output isn't submittable
